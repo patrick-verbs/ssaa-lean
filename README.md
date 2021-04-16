@@ -9,8 +9,6 @@
 - ▶️ ES6 🛠 Airbnb ESLint (thanks to VS Code ext. ESLint by Dirk Baeumer)
 - ❓ jest 26.6.3
 - 📦 Webpack 5 for bundling
-- 👨🏻‍🎨 Adobe Illustrator (comps/planning)
-- 🅰️ Fonts and Icons by me using Georg Seifert's _superb_ 💚[Glyphs.app](https://glyphsapp.com)💚
 
 ## Description
 
@@ -20,7 +18,7 @@ Includes webpack, jest, and eslint preconfigured. Just get to work!
 
 ## Setup/Installation Requirements
 
-- Clone this repo: `$ git clone https://github.com/jeremybanka/pizza-parlor`
+- Clone this repo: `$ git clone https://github.com/patrick-verbs/`
 - Get things installed: `$ npm i`
 - Get things built: `$ npm run start`
 - This should prompt your browser to open the project on 8080. It's actually pointed at the dist folder, and will update live.
